@@ -1,0 +1,1042 @@
+[
+    {
+        "profileAlternative": {
+            "name": "Bruno Guerra",
+            "headline": "CEO na Crescimento.online",
+            "location": "Blumenau, Santa Catarina, Brazil",
+            "connections": "500+",
+            "summary": "Software Engineer and Entrepreneur, with skills on several programming languages, technologies and methodologies. More than nineteen years of system development experience.\n\nFocus on new and most efficient technologies to solving problems, reducing cost of development, enhancing final solution\n\n=== pt_BR\n\nDesenvolvedor de Nascença, Arquiteto de Software por natureza, Gestor por experiência, fico a vontade ao lado da inovação.\n\nVasta experiência em Desenvolvimento de Software, absorção de tecnologias e criação de estrutura de software de longa vida - boas práticas e arquitetura de software está intrínseco.\n\nExperiente em gerir pequenas equipes de desenvolvedores, com área de atuação abrangente. Foco em resultados utilizando metodologias consagradas pelo mercado, como Scrum, BDD, TDD e técnicas de controle como o Kanban."
+        },
+        "aboutAlternative": {
+            "text": "Software Engineer and Entrepreneur, with skills on several programming languages, technologies and methodologies. More than nineteen years of system development experience.\n\nFocus on new and most efficient technologies to solving problems, reducing cost of development, enhancing final solution\n\n=== pt_BR\n\nDesenvolvedor de Nascença, Arquiteto de Software por natureza, Gestor por experiência, fico a vontade ao lado da inovação.\n\nVasta experiência em Desenvolvimento de Software, absorção de tecnologias e criação de estrutura de software de longa vida - boas práticas e arquitetura de software está intrínseco.\n\nExperiente em gerir pequenas equipes de desenvolvedores, com área de atuação abrangente. Foco em resultados utilizando metodologias consagradas pelo mercado, como Scrum, BDD, TDD e técnicas de controle como o Kanban."
+        },
+        "positions": [
+            {
+                "title": "Crescimento Online",
+                "description": "Tem oportunidades de Crescimento Online no seu Negócio ou Ideia ou Sonho e deseja explorá-las e descobrir o caminho de menor resistência para a manifestação dos seus desejos?\n\nAqui seguimos as leis do universo na criação de um ambiente de co-criação sob a borda última do pensamento.\n\nSejam todos bem-vindos,\n... ",
+                "date1": "Jan 2018 – Present",
+                "date2": "1 yr 9 mos",
+                "roles": [
+                    {
+                        "title": "CEO",
+                        "date1": "Jan 2018 – Present",
+                        "date2": "1 yr 9 mos"
+                    },
+                    {
+                        "title": "CEO",
+                        "date1": "Sep 2016 – Present",
+                        "date2": "3 yrs 1 mo"
+                    }
+                ]
+            },
+            {
+                "title": "CTO, Growth Hacker VIP",
+                "description": "Criando experimentos e gerando conhecimento.\nPodemos fazer um experimento dentro do seu mercado, e você vai se espantar com a quantidade de conhecimento gerado a cada experimento.\nImplanto processo de Growth Hacking Dentro da sua empresa.... ",
+                "date1": "Oct 2016 – Present",
+                "date2": "3 yrs"
+            },
+            {
+                "title": "Outsourcing",
+                "description": "Dev Lead working in enhancement process to detect how to speed up migration process of main product to new html framework.\n\nCo-Founder Enhancement Process of Development Depart... ",
+                "date1": "Feb 2016 – Aug 2016",
+                "date2": "7 mos"
+            },
+            {
+                "title": "Software Engineer",
+                "description": "Creating new strategies to find scale up solutions and accelerate company",
+                "date1": "Mar 2015 – Aug 2015",
+                "date2": "6 mos"
+            },
+            {
+                "title": "Cofounder and Head Of Technology",
+                "description": "Building creative mobile solutions",
+                "date1": "Oct 2013 – Feb 2015",
+                "date2": "1 yr 5 mos"
+            },
+            {
+                "title": "IT Project Manager",
+                "description": "Implementation of IT Department, defining methodologies and technologies. Training team with focus on agile methodology.\n\n... ",
+                "date1": "Nov 2012 – Jun 2013",
+                "date2": "8 mos"
+            },
+            {
+                "title": "Atlanta Tecnologia de Informação",
+                "description": "Leading small team to build traffic industry solutions\n\n== pt_BR\nComo gerente de projetos, estabeleci um processo enxuto para desenvolvimento de pr... ",
+                "date1": "Jul 2011 – Dec 2012",
+                "date2": "1 yr 6 mos",
+                "roles": [
+                    {
+                        "title": "IT Project Manager",
+                        "date1": "Jul 2011 – Dec 2012",
+                        "date2": "1 yr 6 mos"
+                    },
+                    {
+                        "title": "Senior Developer",
+                        "date1": "Jun 2007 – Jun 2011",
+                        "date2": "4 yrs 1 mo"
+                    }
+                ]
+            },
+            {
+                "title": "Senior Web Developer",
+                "description": "Webmaster and Developer creating new solutions based on new technologies\n\n== pt_BR\nDesenvolvimento do Site da Loja Computer Store, aplicativos gerenciais e financeiros. In... ",
+                "date1": "2006 – 2007",
+                "date2": "1 yr"
+            },
+            {
+                "title": "Pleno Web Developer and Tech Leader",
+                "date1": "2003 – 2006",
+                "date2": "3 yrs"
+            },
+            {
+                "title": "Cofounder",
+                "description": "Webmaster and Developer build creative site solutions",
+                "date1": "Jan 2001 – Jun 2002",
+                "date2": "1 yr 6 mos"
+            }
+        ],
+        "educations": [
+            {
+                "title": "FACULDADE FARIAS BRITO",
+                "degree": "Master of Business Administration (MBA)",
+                "date1": "2012",
+                "date2": "2013"
+            },
+            {
+                "title": "FACULDADE DE CIÊNCIAS TECNOLÓGICAS DE FORTALEZA",
+                "degree": "Bachelor of Technology (B.Tech.)",
+                "date1": "2009",
+                "date2": "2012"
+            },
+            {
+                "title": "CMCBCE",
+                "degree": "Ensino Médio Completo",
+                "date1": "2000",
+                "date2": "2001"
+            }
+        ],
+        "skills": [
+            {
+                "title": "JavaScript",
+                "count": "19"
+            },
+            {
+                "title": "Node.js",
+                "count": "9"
+            },
+            {
+                "title": "React",
+                "count": "7"
+            },
+            {
+                "title": "Software Project Management",
+                "count": "4"
+            },
+            {
+                "title": "Network Administration",
+                "count": "6"
+            },
+            {
+                "title": "Scrum",
+                "count": "32"
+            },
+            {
+                "title": "Test Driven Development",
+                "count": "11"
+            },
+            {
+                "title": "Design Patterns",
+                "count": "9"
+            },
+            {
+                "title": "Project Management",
+                "count": "7"
+            },
+            {
+                "title": "Software Development",
+                "count": "5"
+            },
+            {
+                "title": "TDD",
+                "count": "3"
+            },
+            {
+                "title": "Agile Methodologies",
+                "count": "1"
+            },
+            {
+                "title": "SEO"
+            },
+            {
+                "title": "E-commerce SEO"
+            },
+            {
+                "title": "React-Native",
+                "count": "5"
+            },
+            {
+                "title": "GraphQL",
+                "count": "1"
+            },
+            {
+                "title": "Android",
+                "count": "8"
+            },
+            {
+                "title": "iOS",
+                "count": "8"
+            },
+            {
+                "title": "Ruby on Rails",
+                "count": "12"
+            },
+            {
+                "title": "Angular",
+                "count": "5"
+            },
+            {
+                "title": "Java Enterprise Edition",
+                "count": "10"
+            },
+            {
+                "title": "AngularJs",
+                "count": "8"
+            },
+            {
+                "title": "Swift",
+                "count": "7"
+            },
+            {
+                "title": "Objective-C",
+                "count": "8"
+            },
+            {
+                "title": "Java",
+                "count": "27"
+            },
+            {
+                "title": "UML",
+                "count": "12"
+            },
+            {
+                "title": "PHP",
+                "count": "18"
+            },
+            {
+                "title": "PostgreSQL",
+                "count": "10"
+            },
+            {
+                "title": "Google AdWords"
+            },
+            {
+                "title": "Relay",
+                "count": "1"
+            },
+            {
+                "title": "Engenharia de software",
+                "count": "6"
+            },
+            {
+                "title": "Fliper",
+                "count": "4"
+            },
+            {
+                "title": "Desenvolvimento orientado a testes",
+                "count": "6"
+            },
+            {
+                "title": "Gestão de projetos de software",
+                "count": "5"
+            },
+            {
+                "title": "Groovy"
+            },
+            {
+                "title": "Desenvolvimento de software",
+                "count": "2"
+            },
+            {
+                "title": "Gestão de projetos",
+                "count": "1"
+            },
+            {
+                "title": "SEO (Otimização de motores de busca)"
+            },
+            {
+                "title": "Profissional de Google AdWords"
+            },
+            {
+                "title": "API do Facebook"
+            },
+            {
+                "title": "automação no instagrm"
+            }
+        ],
+        "recommendations": {
+            "givenCount": "3",
+            "receivedCount": "1",
+            "given": [
+                {
+                    "user": "https://www.linkedin.com/in/mouraigor/",
+                    "text": "Profissional diferenciado, com qualidades de alto nível, adota o que o mercado de Desenvolvimento de Software tem de melhor, implantando metodologias e técnicas em sua gestão. Linha de raciocínio rápida pra encontrar soluções em ti."
+                }
+            ],
+            "received": [
+                {
+                    "user": "https://www.linkedin.com/in/gowtham-karanam-b4470322/",
+                    "text": "Gowtham is one of the solid software engineering that I have worked with. Gowtham has the rare combination of skills/talent that one looks for in engineering leadership.\nSelf-motivated and his always wants to work in challenge environment makes continuous difference in any team. Overall it was a pleasure working with Gowtham and would love to have the opportunity to work together again.\n\n... See more"
+                },
+                {
+                    "user": "https://www.linkedin.com/in/alisson-dourado/",
+                    "text": "O cara! O Profissional dedicado e atencioso. Fácil e fácil se mistura e integra a equipe trazendo qualidades bem legais. Faz as paradas com o máximo de eficácia. Desenrolador de buxo top! ;) recommended!\n\n... See more"
+                }
+            ]
+        },
+        "accomplishments": [
+            {
+                "count": "4",
+                "items": [
+                    "Speed Up Project",
+                    "Sistema de Relacionamento com Clientes",
+                    "Sistema de Processamento de Autos",
+                    "Software do Radar Atlanta SMS"
+                ]
+            },
+            {
+                "count": "2",
+                "items": [
+                    "Inglês",
+                    "Português"
+                ]
+            },
+            {
+                "count": "1",
+                "items": [
+                    "SAAS - Coursea (coursera.org) - Berkeley"
+                ]
+            }
+        ],
+        "peopleAlsoViewed": [
+            {
+                "user": "https://www.linkedin.com/in/antoni-colzani-06b87077/",
+                "text": "Desenvolvedor de sistemas"
+            },
+            {
+                "user": "https://www.linkedin.com/in/eduardo-lima-9b508425/",
+                "text": "Coordenador de Inovação • Professor Universitário • Pesquisador"
+            },
+            {
+                "user": "https://www.linkedin.com/in/marcus-matos-039a1562/",
+                "text": "Suporte Técnico em Hardware e Software. Disponível."
+            },
+            {
+                "user": "https://www.linkedin.com/in/ronaldo-fortaleza-ce-33b00b34/",
+                "text": "Proprietário(a), Lojas Lunas"
+            },
+            {
+                "user": "https://www.linkedin.com/in/tereza-cordeiro-2792385b/",
+                "text": "Analista de Gestão e Controle Interno"
+            },
+            {
+                "user": "https://www.linkedin.com/in/leivan-altini-aa487893/",
+                "text": "Programador na Philips Clinical Informatics"
+            },
+            {
+                "user": "https://www.linkedin.com/in/thiago-aleixo-sizanovski-050a3934/",
+                "text": "Analista de Suporte Técnico na Multisys Software"
+            },
+            {
+                "user": "https://www.linkedin.com/in/mauricio-kunst-2b6ab5b2/",
+                "text": "Implementation Consultant | Senior Sistemas"
+            },
+            {
+                "user": "https://www.linkedin.com/in/lilian-gomes-1b6061118/",
+                "text": "Coordenadora de Departamento Pessoal"
+            },
+            {
+                "user": "https://www.linkedin.com/in/roberto-pereira-5a0b1a57/",
+                "text": "Administrador na Condominio Odara"
+            }
+        ],
+        "volunteerExperience": [],
+        "profile": {
+            "name": "Bruno Guerra",
+            "headline": "CEO na Crescimento.online",
+            "location": "Blumenau, Santa Catarina, Brazil",
+            "connections": "500+",
+            "summary": "Software Engineer and Entrepreneur, with skills on several programming languages, technologies and methodologies. More than nineteen years of system development experience.\n\nFocus on new and most efficient technologies to solving problems, reducing cost of development, enhancing final solution\n\n=== pt_BR\n\nDesenvolvedor de Nascença, Arquiteto de Software por natureza, Gestor por experiência, fico a vontade ao lado da inovação.\n\nVasta experiência em Desenvolvimento de Software, absorção de tecnologias e criação de estrutura de software de longa vida - boas práticas e arquitetura de software está intrínseco.\n\nExperiente em gerir pequenas equipes de desenvolvedores, com área de atuação abrangente. Foco em resultados utilizando metodologias consagradas pelo mercado, como Scrum, BDD, TDD e técnicas de controle como o Kanban."
+        }
+    },
+    {
+        "profileAlternative": {
+            "name": "Juliano Pereira Lima",
+            "headline": "Software Engineer at Qualyteam Gestão da Qualidade",
+            "location": "Balneário Camboriú, Santa Catarina, Brazil",
+            "connections": "500+",
+            "summary": "I solve problems and I really appreciate it.\n\nI currently work mainly with C# and Javascript through .NET Core and React, working on developing B2B solutions.\n\nComputer scientist in love with technology and how it changes the world every second. I dedicate myself to the continuous learning of new technologies, in practice automation of tests and deliveries, agile techniques and how this impact improves the final quality of a product.\n\nNot only on B2B Development, but I also have a lot of interest in Data Science, Artificial Intelligence, Computer Theory, and Combinatorial Optimization.\n \nMy knowledge has been deepened in the Full Stack development, tend to specialize in solutions using functional programming."
+        },
+        "aboutAlternative": {
+            "text": "I solve problems and I really appreciate it.\n\nI currently work mainly with C# and Javascript through .NET Core and React, working on developing B2B solutions.\n\nComputer scientist in love with technology and how it changes the world every second. I dedicate myself to the continuous learning of new technologies, in practice automation of tests and deliveries, agile techniques and how this impact improves the final quality of a product.\n\nNot only on B2B Development, but I also have a lot of interest in Data Science, Artificial Intelligence, Computer Theory, and Combinatorial Optimization.\n \nMy knowledge has been deepened in the Full Stack development, tend to specialize in solutions using functional programming."
+        },
+        "positions": [
+            {
+                "title": "Software Engineer",
+                "description": "• Agile software development with Kanban\n• Frontend development with React with Redux/ Redux-Sagas/ Sass.\n• Backend development with ASP.NET Core with Entity Framework Core.\n• Feasibility study for the adoption of new technologies.\n• Development using Docker and Continuous Delivery with Gitlab-CI\n• Unit Tests Development with Jest/Enzyme/React-testing-library and Xunit;\n• End-To-End Tests Development with Cypress and CodeceptJS.",
+                "date1": "Jun 2018 – Present",
+                "date2": "1 yr 4 mos"
+            },
+            {
+                "title": "Full Stack Developer",
+                "description": "• Frontend development with React\n• FullStack development with ASP.NET MVC 5\n• Database modeling, deployment, and optimizations with SQL Server, PostgreSQL, and Oracle.\n• Development of migration routines between different databases and platforms with Pe... ",
+                "date1": "Sep 2017 – Jun 2018",
+                "date2": "10 mos"
+            },
+            {
+                "title": "Software Developer Internship",
+                "description": "• Backend development with Java using Spring Framework\n• Frontend development with ActionScript (flex)\n• Frontend development with React with Redux\n• Database Modeling, Deployment, and optimizations with Mysql.... ",
+                "date1": "Sep 2016 – Jul 2017",
+                "date2": "11 mos"
+            }
+        ],
+        "educations": [
+            {
+                "title": "Universidade do Vale do Itajaí",
+                "degree": "Bacharelado",
+                "date1": "2016",
+                "date2": "2018"
+            },
+            {},
+            {
+                "title": "Universidade Estadual de Mato Grosso do Sul",
+                "degree": "Bacharelado",
+                "date1": "2010",
+                "date2": "2014"
+            },
+            {}
+        ],
+        "skills": [
+            {
+                "title": "Web Development",
+                "count": "8"
+            },
+            {
+                "title": "Java SE",
+                "count": "5"
+            },
+            {
+                "title": "Artificial Intelligence",
+                "count": "2"
+            },
+            {
+                "title": "Software Development",
+                "count": "2"
+            },
+            {
+                "title": "Business-to-Business (B2B)"
+            },
+            {
+                "title": "JavaScript",
+                "count": "6"
+            },
+            {
+                "title": "SQL",
+                "count": "4"
+            },
+            {
+                "title": "C++",
+                "count": "4"
+            },
+            {
+                "title": "Linux",
+                "count": "5"
+            },
+            {
+                "title": "MySQL",
+                "count": "3"
+            },
+            {
+                "title": "Node.js",
+                "count": "2"
+            },
+            {
+                "title": "Microsoft SQL Server",
+                "count": "1"
+            },
+            {
+                "title": "ASP.NET",
+                "count": "1"
+            },
+            {
+                "title": "C#",
+                "count": "5"
+            },
+            {
+                "title": "HTML"
+            },
+            {
+                "title": "PL/SQL",
+                "count": "1"
+            },
+            {
+                "title": "PostgreSQL"
+            },
+            {
+                "title": "Entity Framework",
+                "count": "2"
+            },
+            {
+                "title": "React",
+                "count": "4"
+            },
+            {
+                "title": "Redux",
+                "count": "1"
+            },
+            {
+                "title": "Microsoft .NET",
+                "count": "1"
+            },
+            {
+                "title": "Back-End Development",
+                "count": "2"
+            },
+            {
+                "title": "Functional Programming",
+                "count": "1"
+            },
+            {
+                "title": "Pentaho Data Integration"
+            },
+            {
+                "title": "Electron"
+            },
+            {
+                "title": "Unit Tests"
+            },
+            {
+                "title": "End to End Testing",
+                "count": "1"
+            }
+        ],
+        "recommendations": {
+            "givenCount": "0",
+            "receivedCount": "0",
+            "given": [],
+            "received": []
+        },
+        "accomplishments": [
+            {
+                "count": "2",
+                "items": [
+                    "Inglês",
+                    "Português"
+                ]
+            }
+        ],
+        "peopleAlsoViewed": [
+            {
+                "user": "https://www.linkedin.com/in/murilo-macedo/",
+                "text": "Software engineer at Envolti Sistemas Blumenau e Região, Brasil"
+            },
+            {
+                "user": "https://www.linkedin.com/in/luis-henrique-kraus-b06638137/",
+                "text": "Coordenador de projetos na Qualyteam Gestão da Qualidade"
+            },
+            {
+                "user": "https://www.linkedin.com/in/diegomelodev/",
+                "text": "Software Engineer at Involves"
+            },
+            {
+                "user": "https://www.linkedin.com/in/marconicolodi/",
+                "text": "Software Engineer @ Nubank"
+            },
+            {
+                "user": "https://www.linkedin.com/in/leonardo-prange/",
+                "text": "Análista Desenvolvedor na Qualyteam Gestão da Qualidade"
+            },
+            {
+                "user": "https://www.linkedin.com/in/nuriellybrizola/",
+                "text": "Developer Front-end"
+            },
+            {
+                "user": "https://www.linkedin.com/in/gabriel-lucht/",
+                "text": "Web developer"
+            },
+            {
+                "user": "https://www.linkedin.com/in/rodrigokorpalski/",
+                "text": "Desenvolvedor Full Stack GO, Java, JavaScript | Softplan Planejamento e Sistemas"
+            },
+            {
+                "user": "https://www.linkedin.com/in/gplichoski/",
+                "text": "Desenvolvedor de software na Magrathea Labs"
+            },
+            {
+                "user": "https://www.linkedin.com/in/eliane-de-oliveira-04b12725/",
+                "text": "Analista de Negócios TI | Especialista em e-Social | Engenheira de Requisitos (CPRE) | Gestão de projetos."
+            }
+        ],
+        "volunteerExperience": [],
+        "profile": {
+            "name": "Juliano Pereira Lima",
+            "headline": "Software Engineer at Qualyteam Gestão da Qualidade",
+            "location": "Balneário Camboriú, Santa Catarina, Brazil",
+            "connections": "500+",
+            "summary": "I solve problems and I really appreciate it.\n\nI currently work mainly with C# and Javascript through .NET Core and React, working on developing B2B solutions.\n\nComputer scientist in love with technology and how it changes the world every second. I dedicate myself to the continuous learning of new technologies, in practice automation of tests and deliveries, agile techniques and how this impact improves the final quality of a product.\n\nNot only on B2B Development, but I also have a lot of interest in Data Science, Artificial Intelligence, Computer Theory, and Combinatorial Optimization.\n \nMy knowledge has been deepened in the Full Stack development, tend to specialize in solutions using functional programming."
+        }
+    },
+    {
+        "profileAlternative": {
+            "name": "Rafael Caviquioli",
+            "headline": "Projeto, análise e desenvolvimento de software",
+            "location": "Itajaí, Santa Catarina, Brazil",
+            "connections": "500+",
+            "summary": "Kanban Management Professional (KMP)\n\nMBA em Gerenciamento de Projetos"
+        },
+        "aboutAlternative": {
+            "text": "Kanban Management Professional (KMP)\n\nMBA em Gerenciamento de Projetos"
+        },
+        "positions": [
+            {
+                "title": "Coordenador de projetos",
+                "description": "Atualmente na Qualyteam, atuo na gestão de uma das equipes de desenvolvimento de novos produtos, meu papel é fazer a gestão do time e desenvolvimento e atuar como desenvolvedor, neste projeto, estudamos e aplicamos novas tecnologias de acordo com as demandas do projeto, automatizamos diversos tipos de testes em busca de garantir a integridade do produto e satisfação do cliente, valorizamos e priorizamos a qualidade da entrega e trabalho em equipe. Busco diariamente agregar práticas ágeis como o método Kanban aos nossos processos.\n\nAtuando com metodologias ágeis e tecnologias como Kubernetes, Docker, CI, testes aut... ",
+                "date1": "Apr 2017 – Present",
+                "date2": "2 yrs 6 mos"
+            },
+            {
+                "title": "Planejamento, análise e desenvolvimento de Sistemas",
+                "description": "Ao longo dos 9 anos na Pensador, focamos no produto SIGANET, tive experiências com suporte ao usuário, atendimento ao cliente, implantação do software, análise de requisitos, desenvolvimento de software, infraestrutura de servidores e liderança da equipe.",
+                "date1": "Feb 2008 – Apr 2017",
+                "date2": "9 yrs 3 mos"
+            }
+        ],
+        "educations": [
+            {
+                "title": "Universidade do Vale do Itajaí",
+                "degree": "Master of Business Administration (MBA)",
+                "date1": "2016",
+                "date2": "2018"
+            },
+            {
+                "title": "Universidade do Vale do Itajaí",
+                "degree": "Tecnólogo",
+                "date1": "2012",
+                "date2": "2016"
+            }
+        ],
+        "skills": [
+            {
+                "title": "Liderança de equipe",
+                "count": "12"
+            },
+            {
+                "title": "Metodologias ágeis",
+                "count": "12"
+            },
+            {
+                "title": "MySQL",
+                "count": "9"
+            },
+            {
+                "title": "JavaScript",
+                "count": "10"
+            },
+            {
+                "title": "Linux",
+                "count": "6"
+            },
+            {
+                "title": "PHP",
+                "count": "10"
+            },
+            {
+                "title": "CSS",
+                "count": "9"
+            },
+            {
+                "title": "React.js",
+                "count": "4"
+            },
+            {
+                "title": "Team Leadership",
+                "count": "6"
+            }
+        ],
+        "recommendations": {
+            "givenCount": "1",
+            "receivedCount": "0",
+            "given": [
+                {
+                    "user": "https://www.linkedin.com/in/brunoofgod/",
+                    "text": "Eu e o Bruno trabalhamos durante 1 ano juntos dentro de uma equipe de desenvolvimento, foi um ano de grandes aprendizados, aliando o seu grande conhecimento de negócio em ERP ao conhecimento técnico, foi o cabeça em um projeto muito importante que revolucionou a maneira de configurar as diferentes situações tributárias de empresas para geração de NF Eletrônica.\nBruno aprende e evolui rápido, tem um bom pensamento crítico e é muito comunicativo. See less"
+                }
+            ],
+            "received": []
+        },
+        "accomplishments": [],
+        "peopleAlsoViewed": [
+            {
+                "user": "https://www.linkedin.com/in/luis-henrique-kraus-b06638137/",
+                "text": "Coordenador de projetos na Qualyteam Gestão da Qualidade"
+            },
+            {
+                "user": "https://www.linkedin.com/in/wagnerverlindo/",
+                "text": "Co-Founder and CEO at Ubin"
+            },
+            {
+                "user": "https://www.linkedin.com/in/amandaprestesluz/",
+                "text": "Gerente de contas na Qualyteam Gestão da Qualidade"
+            },
+            {
+                "user": "https://www.linkedin.com/in/jean-bairro/",
+                "text": "Engenheiro de Software"
+            },
+            {
+                "user": "https://www.linkedin.com/in/jeffersonschmitt1/",
+                "text": "Estudante de ciências da computação na Univali"
+            },
+            {
+                "user": "https://www.linkedin.com/in/pedro-henrique-duarte-de-oliveira-38219b22/",
+                "text": "Coordenador de projetos na Qualyteam - Software para Gestão da Qualidade"
+            },
+            {
+                "user": "https://www.linkedin.com/in/marcelo-souza-a74a5916b/",
+                "text": "Programador | Universidade do Vale do Itajaí | Univali"
+            },
+            {
+                "user": "https://www.linkedin.com/in/julianopereiralima/",
+                "text": "Software Engineer at Qualyteam Gestão da Qualidade"
+            },
+            {
+                "user": "https://www.linkedin.com/in/gabriel-lucht/",
+                "text": "Web developer"
+            },
+            {
+                "user": "https://www.linkedin.com/in/jonesaugustoboeck/",
+                "text": "Empreendedor voltado a Prospecção e Transferência Tecnológica para Inovação Apoiando Ambientes e Ecossistema de Startups"
+            }
+        ],
+        "volunteerExperience": [],
+        "profile": {
+            "name": "Rafael Caviquioli",
+            "headline": "Projeto, análise e desenvolvimento de software",
+            "location": "Itajaí, Santa Catarina, Brazil",
+            "connections": "500+",
+            "summary": "Kanban Management Professional (KMP)\n\nMBA em Gerenciamento de Projetos"
+        }
+    },
+    {
+        "profileAlternative": {
+            "name": "Marco Nicolodi",
+            "headline": "Software Engineer @ Nubank",
+            "location": "São Paulo, São Paulo, Brazil",
+            "connections": "500+",
+            "summary": "Sou um engenheiro de software apaixonado por criar soluções através da tecnologia. Acredito que um desenvolvedor potencializa seus resultados quando vai além do código e colabora com outras lideranças em áreas como produto, ágil e gestão. Aficcionado por cultura organizacional, busco otimizar processos, descentralizar conhecimento e inspirar meus pares a desenvolverem seu máximo potencial"
+        },
+        "aboutAlternative": {
+            "text": "Sou um engenheiro de software apaixonado por criar soluções através da tecnologia. Acredito que um desenvolvedor potencializa seus resultados quando vai além do código e colabora com outras lideranças em áreas como produto, ágil e gestão. Aficcionado por cultura organizacional, busco otimizar processos, descentralizar conhecimento e inspirar meus pares a desenvolverem seu máximo potencial"
+        },
+        "positions": [
+            {
+                "title": "Engenheiro de software",
+                "date1": "Jul 2019 – Present",
+                "date2": "3 mos"
+            },
+            {
+                "title": "Desenvolvedor de software",
+                "description": "2016: Atuação nos módulos de Pessoas, Indicadores, Administrativo e Integração com Terceiros, visando implementação de novas funcionalidades, manutenção e refatoração.\n\n2017 até 2018: Concepção até a entrega da reescrita do módulo de gestão de documen... ",
+                "date1": "Sep 2016 – May 2019",
+                "date2": "2 yrs 9 mos"
+            },
+            {
+                "title": "Desenvolvedor de software",
+                "description": "Atuação na manutenção e melhorias no software proprietário da empresa, ajudando na migração para uma plataforma SaaS, como desenvolvedor fullstack. Como destaques ajudei a criar um fluxo de auto atendimento para os leads da imobiliária, com um kanban interativo para gerenciar as etapas da compra de um imóvel, simulação de preços com vários tipos de financiament... ",
+                "date1": "2016",
+                "date2": "less than a year"
+            },
+            {
+                "title": "Desenvolvedor de software",
+                "description": "Com uma equipe de 4 pessoas ajudei a desenvolver um produto SaaS para gestão de igrejas, utilizando o framework MVC CakePHP e Jquery. Aqui aperfeiçoei o que estava aprendendo na graduação, entendendo melhor o fluxo de desenvolvimento web, suas interações com o protocolo HTTP, consultas a banco de dados relacionais e me aproximei também do mundo javasc... ",
+                "date1": "2015 – 2016",
+                "date2": "1 yr"
+            }
+        ],
+        "educations": [
+            {
+                "title": "Instituto Federal Catarinense",
+                "degree": "Tecnologo",
+                "date1": "2013",
+                "date2": "2019"
+            }
+        ],
+        "skills": [
+            {
+                "title": "C#",
+                "count": "10"
+            },
+            {
+                "title": "JavaScript",
+                "count": "5"
+            },
+            {
+                "title": "React.js",
+                "count": "7"
+            },
+            {
+                "title": "Agile"
+            },
+            {
+                "title": "ASP.NET",
+                "count": "2"
+            },
+            {
+                "title": "PHP",
+                "count": "2"
+            },
+            {
+                "title": "Laravel",
+                "count": "2"
+            },
+            {
+                "title": "HTML5",
+                "count": "1"
+            },
+            {
+                "title": "Docker"
+            },
+            {
+                "title": "Linux"
+            },
+            {
+                "title": "Arquitetura de sistema",
+                "count": "4"
+            },
+            {
+                "title": "Integração contínua",
+                "count": "2"
+            },
+            {
+                "title": "Metodologias ágeis"
+            },
+            {
+                "title": "Microsoft .NET",
+                "count": "1"
+            },
+            {
+                "title": "Princípios SOLID",
+                "count": "4"
+            },
+            {
+                "title": "Desenvolvimento de front-end",
+                "count": "2"
+            },
+            {
+                "title": "Padrões de desenvolvimento de software",
+                "count": "2"
+            },
+            {
+                "title": "DevOps"
+            },
+            {
+                "title": "Testes automatizados de software",
+                "count": "1"
+            },
+            {
+                "title": "Desenvolvimento aplicativos da web"
+            },
+            {
+                "title": "DDD",
+                "count": "1"
+            },
+            {
+                "title": "Domain Driven Design (DDD)",
+                "count": "4"
+            },
+            {
+                "title": "Inglês",
+                "count": "1"
+            },
+            {
+                "title": "BDD",
+                "count": "1"
+            },
+            {
+                "title": "Arquitetura de software",
+                "count": "1"
+            },
+            {
+                "title": "Refatoração",
+                "count": "1"
+            },
+            {
+                "title": "Liderança"
+            },
+            {
+                "title": "Melhoria contínua",
+                "count": "1"
+            },
+            {
+                "title": "Testes end-to-end"
+            },
+            {
+                "title": "Cypress"
+            }
+        ],
+        "recommendations": {
+            "givenCount": "0",
+            "receivedCount": "0",
+            "given": [],
+            "received": []
+        },
+        "accomplishments": [],
+        "peopleAlsoViewed": [
+            {
+                "user": "https://www.linkedin.com/in/ana-luisa-bavati/",
+                "text": "Software Engineer at Nubank"
+            },
+            {
+                "user": "https://www.linkedin.com/in/r%C3%B4mulo-malkiewiez-g%C3%B6elzer-portolann-901999a2/",
+                "text": "Software Engineer at Qualyteam Gestão de Qualidade"
+            },
+            {
+                "user": "https://www.linkedin.com/in/jo%C3%A3o-victor-91046379/",
+                "text": "Software Developer @Allog"
+            },
+            {
+                "user": "https://www.linkedin.com/in/julianopereiralima/",
+                "text": "Software Engineer at Qualyteam Gestão da Qualidade"
+            },
+            {
+                "user": "https://www.linkedin.com/in/viniciusas/",
+                "text": "Acadêmico de Ciência da Computação"
+            },
+            {
+                "user": "https://www.linkedin.com/in/thalia-roberta-schulle-885b82164/",
+                "text": "Software Developer at Philips"
+            },
+            {
+                "user": "https://www.linkedin.com/in/williankirsch/",
+                "text": "Full-stack Developer | Ravex"
+            },
+            {
+                "user": "https://www.linkedin.com/in/riadvargas/",
+                "text": "Software Engineer @ Nubank"
+            },
+            {
+                "user": "https://www.linkedin.com/in/gabrielesteveslima/",
+                "text": "Mid .NET Software Analyst | F. Copel"
+            },
+            {
+                "user": "https://www.linkedin.com/in/leonardo-prange/",
+                "text": "Análista Desenvolvedor na Qualyteam Gestão da Qualidade"
+            }
+        ],
+        "volunteerExperience": [],
+        "profile": {
+            "name": "Marco Nicolodi",
+            "headline": "Software Engineer @ Nubank",
+            "location": "São Paulo, São Paulo, Brazil",
+            "connections": "500+",
+            "summary": "Sou um engenheiro de software apaixonado por criar soluções através da tecnologia. Acredito que um desenvolvedor potencializa seus resultados quando vai além do código e colabora com outras lideranças em áreas como produto, ágil e gestão. Aficcionado por cultura organizacional, busco otimizar processos, descentralizar conhecimento e inspirar meus pares a desenvolverem seu máximo potencial"
+        }
+    },
+    {
+        "profileAlternative": {
+            "name": "Mayara Namie Soter Ishikawa",
+            "headline": "Advogada na Profissional liberal",
+            "location": "Brazil",
+            "connections": "22"
+        },
+        "aboutAlternative": {},
+        "positions": [
+            {
+                "title": "Profissional liberal",
+                "date1": "Nov 2016 – Present",
+                "date2": "2 yrs 11 mos",
+                "roles": [
+                    {
+                        "title": "Advogada",
+                        "date1": "Nov 2016 – Present",
+                        "date2": "2 yrs 11 mos"
+                    },
+                    {
+                        "title": "Advogada",
+                        "date1": "Nov 2016 – Present",
+                        "date2": "2 yrs 11 mos"
+                    }
+                ]
+            },
+            {
+                "title": "Advogada e Assessora de Relacionamento",
+                "date1": "Aug 2018 – Jul 2019",
+                "date2": "1 yr"
+            }
+        ],
+        "educations": [
+            {
+                "title": "Universidade do Vale do Itajaí | Univali",
+                "degree": "Bacharelado em Direito",
+                "date1": "2011",
+                "date2": "2016"
+            },
+            {
+                "title": "Instituto Brasileiro de Coaching - IBC",
+                "degree": "Coaching",
+                "date1": "2018",
+                "date2": "2018"
+            },
+            {
+                "title": "UNINTER Centro Universitário Internacional",
+                "degree": "Tecnólogo Processos Gerenciais",
+                "date1": "2016",
+                "date2": "2018"
+            }
+        ],
+        "skills": [
+            {
+                "title": "Microsoft Office"
+            },
+            {
+                "title": "Microsoft Excel"
+            },
+            {
+                "title": "Microsoft Word"
+            },
+            {
+                "title": "Relações trabalhistas"
+            },
+            {
+                "title": "Relacionamento com clientes"
+            },
+            {
+                "title": "Agilidade"
+            },
+            {
+                "title": "Atendimento ao Cliente"
+            },
+            {
+                "title": "Liderança"
+            }
+        ],
+        "recommendations": {
+            "givenCount": "0",
+            "receivedCount": "0",
+            "given": [],
+            "received": []
+        },
+        "accomplishments": [],
+        "peopleAlsoViewed": [
+            {
+                "user": "https://www.linkedin.com/in/rosilene-da-silva-cardoso-206823159/",
+                "text": "Psicóloga | Analista de Recrutamento e Seleção"
+            }
+        ],
+        "volunteerExperience": [],
+        "profile": {
+            "name": "Mayara Namie Soter Ishikawa",
+            "headline": "Advogada na Profissional liberal",
+            "location": "Brazil",
+            "connections": "22"
+        }
+    }
+]
